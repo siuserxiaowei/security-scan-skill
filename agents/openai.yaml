@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Scan"
+  short_description: "Scan local projects for dependency and CI supply-chain risks."
+  default_prompt: "Scan this project for npm dependency, lockfile, and GitHub Actions supply-chain risks. Keep all source local and summarize fixes."
