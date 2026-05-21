@@ -1,5 +1,18 @@
 # Security Scan Skill
 
+<!-- SIUSER-SEO-INTRO:START -->
+
+## 项目介绍 / Project Introduction
+
+**中文介绍**：本地安全扫描 Skill，用于 npm 依赖、供应链风险、敏感信息和项目安全检查的自动化实践。
+
+**English**: A local security-scan skill for npm dependencies, supply-chain risks, secret detection, and automated project security checks.
+
+**SEO 关键词 / SEO Keywords**: security scan, npm security, supply chain security, secret detection, 安全扫描
+
+<!-- SIUSER-SEO-INTRO:END -->
+
+
 > A local-only Codex skill for npm supply-chain incident checks, TanStack compromise detection, lockfile review, install-script risk, and GitHub Actions CI/CD hardening.
 
 中文说明见下方：[中文介绍](#中文介绍)
@@ -175,3 +188,17 @@ git clone https://github.com/siuserxiaowei/security-scan-skill.git ~/.codex/skil
 - TanStack 官方复盘：https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
 - GitHub Advisory：https://github.com/advisories/GHSA-g7cv-rxg3-hmpx
 - Cloudsmith 分析：https://cloudsmith.com/blog/tanstack-npm-packages-compromised-in-mini-shai-hulud-attack
+
+<!-- SIUSER-CONTACT:START -->
+
+## 联系我 / Contact
+
+想交流 AI 工具、内容自动化、SEO、私域增长或项目合作，可以扫码加我微信。
+
+For collaboration on AI tools, content automation, SEO, private-domain growth, or product experiments, scan the WeChat QR code below.
+
+<img src="https://raw.githubusercontent.com/siuserxiaowei/siuserxiaowei/main/assets/contact/wechat-qrcode.jpg" width="180" alt="WeChat QR code / 微信二维码" />
+
+**关键词 / Keywords**: security scan, npm security, supply chain security, secret detection, AI tools, AI automation, GitHub Pages, SEO
+
+<!-- SIUSER-CONTACT:END -->
