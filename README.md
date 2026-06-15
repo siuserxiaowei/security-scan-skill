@@ -1,5 +1,63 @@
 # Security Scan Skill
 
+<!-- SIUSER-REPO-GUIDE:START -->
+## Repository Guide
+
+### What This Repository Does
+
+本地安全扫描 Skill：检查 npm 供应链、依赖风险和潜在密钥泄露。
+
+English summary: Local security scan skill for npm supply-chain checks, dependency risk, and potential secret exposure.
+
+### Online Entry Points
+
+- GitHub repository: https://github.com/siuserxiaowei/security-scan-skill
+- Live / GitHub Pages: not configured for this repository
+- Default branch: `main`
+- Primary language: `Python`
+
+### How To Read / Learn This Repository
+
+1. 先读本 README，确认项目目标、在线入口和本地运行方式。
+2. 优先查看 `SKILL.md`、`README.md` 和示例脚本，理解这个 skill 解决什么问题。
+3. 如果要修改内容，先小范围改动，再运行本 README 中的验证命令。
+
+### Clone This Repository
+
+```bash
+git clone https://github.com/siuserxiaowei/security-scan-skill.git
+cd security-scan-skill
+```
+
+### Run Or View Locally
+
+这个仓库没有检测到固定本地运行命令。通常可以直接阅读 README、源码、数据文件或线上页面；如需运行，请先查看仓库内的脚本和配置文件。
+
+### Repository Map
+
+| Path | Purpose |
+| --- | --- |
+| `README.md` | 项目入口说明，先读这里。 |
+| `SKILL.md` | Skill 的核心说明、触发条件和使用步骤。 |
+| `scripts/` | 构建、同步、生成或维护脚本。 |
+| `LICENSE` | 项目文件。 |
+| `agents/` | 项目目录。 |
+| `references/` | 项目目录。 |
+
+### Maintenance Notes
+
+- Keep this README in sync when the project purpose, live link, or run commands change.
+- Prefer small, focused commits when changing code, data, or generated pages.
+- Run the relevant build or validation command before publishing changes.
+- If this is a generated/static archive, update the source data first, then regenerate the public files.
+
+### Privacy And Safety
+
+- Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
+- Keep private source material out of public GitHub Pages output unless it has been explicitly cleared for publication.
+- When in doubt, run a quick secret scan such as `rg -n "token|secret|password|access_key|authorization"` before pushing.
+<!-- SIUSER-REPO-GUIDE:END -->
+
 <!-- SIUSER-SEO-INTRO:START -->
 
 ## 项目介绍 / Project Introduction
@@ -11,7 +69,6 @@
 **SEO 关键词 / SEO Keywords**: security scan, npm security, supply chain security, secret detection, 安全扫描
 
 <!-- SIUSER-SEO-INTRO:END -->
-
 
 > A local-only Codex skill for npm supply-chain incident checks, TanStack compromise detection, lockfile review, install-script risk, and GitHub Actions CI/CD hardening.
 
